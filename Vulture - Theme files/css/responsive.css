@@ -1,0 +1,89 @@
+@media (max-width:1200px) {
+    .error-text img {
+        max-width: 500px;
+    }
+}
+@media (max-width:1199px) {
+    .info-a {
+        margin-top: 10px;
+    }
+}
+@media (max-width:991px) {
+    .scmenu ul li {
+        margin-right: 13px !important;
+        margin-left: 0;
+    }
+    .scmenu {
+        text-align: left !important;
+    }
+    .side-content {
+        position: relative;
+        top: 0;
+    }
+    #emailcm {
+        margin-left: 6px;
+    }
+    form.sendyourcm input.datacm {
+    width: 100%;
+    }
+    #email {
+    margin-left: 0px;
+    }
+
+}
+
+@media (max-width:767px) {
+    .imageme {
+        text-align: center;
+    }
+    .txtabt {
+        padding-left: 0;
+        margin-top: 30px;
+    }
+    .ms-header {
+        margin-top: 10px;
+        float: right;
+    }
+    .btn-abt {
+        margin-top: 0;
+        display: inline-block;
+    }
+    .mabu {
+        margin: 70px 0;
+    }
+     .ucm .aboutauthor{
+         text-align: left;
+     }
+    .aboutauthor {
+        text-align: center;
+    }
+    .aboutauthor img {
+        margin: 0;
+    }
+    .info-a {
+        margin-top: 11px;
+        display: block;
+    }
+    .rtlpost-box {
+        margin: 15px 0;
+    }
+    .aboutauthor img {
+        bottom: 0;
+    }
+    form.sendyourcm input.datacm {
+        padding: 8px 8px;
+        margin-bottom: 10px;
+        width: 100%;
+    }
+    #emailcm {
+        margin-left: 0 !important;
+    }
+    .maincontent p {
+        padding: 5px 5px 0 5px;
+        margin-bottom: 20px;
+    }
+
+}
+@media (max-width:576px) {
+    
+}

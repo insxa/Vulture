@@ -1,0 +1,396 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Vulture\n"
+"POT-Creation-Date: 2020-03-01 12:17+0330\n"
+"PO-Revision-Date: 2020-03-01 12:11+0330\n"
+"Last-Translator: Amirhosseinhpv <amirhossein@hpv.im>\n"
+"Language-Team: Amirhosseinhpv <amirhossein@hpv.im>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: 404.php\n"
+"X-Poedit-SearchPath-1: archive.php\n"
+"X-Poedit-SearchPath-2: category.php\n"
+"X-Poedit-SearchPath-3: comments.php\n"
+"X-Poedit-SearchPath-4: dark.css\n"
+"X-Poedit-SearchPath-5: footer.php\n"
+"X-Poedit-SearchPath-6: front-page.php\n"
+"X-Poedit-SearchPath-7: functions.php\n"
+"X-Poedit-SearchPath-8: header.php\n"
+"X-Poedit-SearchPath-9: home.php\n"
+"X-Poedit-SearchPath-10: index.php\n"
+"X-Poedit-SearchPath-11: page.php\n"
+"X-Poedit-SearchPath-12: screenshot.png\n"
+"X-Poedit-SearchPath-13: search.php\n"
+"X-Poedit-SearchPath-14: searchform.php\n"
+"X-Poedit-SearchPath-15: share-template.php\n"
+"X-Poedit-SearchPath-16: sidebar.php\n"
+"X-Poedit-SearchPath-17: single.php\n"
+"X-Poedit-SearchPath-18: style.css\n"
+"X-Poedit-SearchPath-19: tag.php\n"
+"X-Poedit-SearchPath-20: inc/theme-options.php\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: archive.php:59 category.php:58 home.php:59 index.php:59 search.php:62
+#: tag.php:59
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: comments.php:21
+#, php-format
+msgctxt "comments title"
+msgid "One Comments"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:32
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:33
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:34
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:49
+#, php-format
+msgid "Post Reply to %s"
+msgstr ""
+
+#: comments.php:50
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:51
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:59
+#, php-format
+msgid ""
+"You are logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title="
+"\"Sign out of this account\">Logout?</a>"
+msgstr ""
+
+#: functions.php:54
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:73
+msgid "Search Results for... "
+msgstr ""
+
+#: functions.php:103
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:146
+msgid "Recent Posts Widget With Thumbnails"
+msgstr ""
+
+#: functions.php:152
+msgid "WP Google Fonts"
+msgstr ""
+
+#: functions.php:158
+msgid "Contact Form 7"
+msgstr ""
+
+#: functions.php:198
+msgid "Your comment is awaiting management approval."
+msgstr ""
+
+#: inc/theme-options.php:28
+msgid "Header"
+msgstr ""
+
+#: inc/theme-options.php:32
+msgid "Home Page"
+msgstr ""
+
+#: inc/theme-options.php:36
+msgid "Footer"
+msgstr ""
+
+#: inc/theme-options.php:40
+msgid "Social Media"
+msgstr ""
+
+#: inc/theme-options.php:44
+msgid "404 page"
+msgstr ""
+
+#: inc/theme-options.php:48
+msgid "Single page"
+msgstr ""
+
+#: inc/theme-options.php:52
+msgid "Custom Style"
+msgstr ""
+
+#: inc/theme-options.php:58
+msgid "Header Logo"
+msgstr ""
+
+#: inc/theme-options.php:59
+msgid "Please upload a logo image in 125*35 px."
+msgstr ""
+
+#: inc/theme-options.php:73
+msgid "Light header logo"
+msgstr ""
+
+#: inc/theme-options.php:88
+msgid "Show search form"
+msgstr ""
+
+#: inc/theme-options.php:103
+msgid "Show About me Section"
+msgstr ""
+
+#: inc/theme-options.php:118
+msgid "Home page image"
+msgstr ""
+
+#: inc/theme-options.php:133
+msgid "Big title text"
+msgstr ""
+
+#: inc/theme-options.php:134
+msgid "Write big title of home page. Example: Hi, I&#039;m a Web Developer"
+msgstr ""
+
+#: inc/theme-options.php:148
+msgid "Description"
+msgstr ""
+
+#: inc/theme-options.php:149
+msgid "Please write description for show in home page"
+msgstr ""
+
+#: inc/theme-options.php:163 inc/theme-options.php:478
+msgid "Button text"
+msgstr ""
+
+#: inc/theme-options.php:178
+msgid "Button Link"
+msgstr ""
+
+#: inc/theme-options.php:193
+msgid "Show posts section"
+msgstr ""
+
+#: inc/theme-options.php:208
+msgid "Articles section title"
+msgstr ""
+
+#: inc/theme-options.php:223
+msgid "Custom link text"
+msgstr ""
+
+#: inc/theme-options.php:224
+msgid "Add custom text for Articles section link"
+msgstr ""
+
+#: inc/theme-options.php:238
+msgid "Custom URL link"
+msgstr ""
+
+#: inc/theme-options.php:239
+msgid "Add custom link URL for Articles section link"
+msgstr ""
+
+#: inc/theme-options.php:253
+msgid "Custom HTML"
+msgstr ""
+
+#: inc/theme-options.php:254
+msgid ""
+"You can add html codes for home page. this code show under the sections."
+msgstr ""
+
+#: inc/theme-options.php:268
+msgid "Copyright text"
+msgstr ""
+
+#: inc/theme-options.php:283
+msgid "Show social media icons"
+msgstr ""
+
+#: inc/theme-options.php:298
+msgid "Intagram URL"
+msgstr ""
+
+#: inc/theme-options.php:313
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/theme-options.php:328
+msgid "Linkedin URL"
+msgstr ""
+
+#: inc/theme-options.php:343
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/theme-options.php:358
+msgid "Github URL"
+msgstr ""
+
+#: inc/theme-options.php:373
+msgid "Dribbble URL"
+msgstr ""
+
+#: inc/theme-options.php:388
+msgid "Youtube URL"
+msgstr ""
+
+#: inc/theme-options.php:403
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/theme-options.php:418
+msgid "RSS URL"
+msgstr ""
+
+#: inc/theme-options.php:433
+msgid "Wordpress URL"
+msgstr ""
+
+#: inc/theme-options.php:448
+msgid "Upload custom image"
+msgstr ""
+
+#: inc/theme-options.php:449
+msgid "upload a image for show in 404 page."
+msgstr ""
+
+#: inc/theme-options.php:463
+msgid "Content"
+msgstr ""
+
+#: inc/theme-options.php:493
+msgid "Button link URL"
+msgstr ""
+
+#: inc/theme-options.php:508
+msgid "Show breadcrumb"
+msgstr ""
+
+#: inc/theme-options.php:523
+msgid "Show post date"
+msgstr ""
+
+#: inc/theme-options.php:538
+msgid "Show share buttons"
+msgstr ""
+
+#: inc/theme-options.php:553
+msgid "Show author box"
+msgstr ""
+
+#: inc/theme-options.php:568
+msgid "Show Related Posts"
+msgstr ""
+
+#: inc/theme-options.php:583
+msgid "Main Color"
+msgstr ""
+
+#: inc/theme-options.php:584
+msgid ""
+"Main color is the color of your branding. this the color is some texts and "
+"sections in website."
+msgstr ""
+
+#: inc/theme-options.php:598
+msgid "Dark mode"
+msgstr ""
+
+#: inc/theme-options.php:613
+msgid "Selection color"
+msgstr ""
+
+#: inc/theme-options.php:628
+msgid "Selection background color"
+msgstr ""
+
+#: inc/theme-options.php:643
+msgid "Post link color "
+msgstr ""
+
+#: inc/theme-options.php:658
+msgid "Post link hover color"
+msgstr ""
+
+#: inc/theme-options.php:673
+msgid "Buttons color"
+msgstr ""
+
+#: inc/theme-options.php:688
+msgid "Buttons background color"
+msgstr ""
+
+#: inc/theme-options.php:703
+msgid "Buttons hover color"
+msgstr ""
+
+#: inc/theme-options.php:718
+msgid "Buttons hover background color"
+msgstr ""
+
+#: inc/theme-options.php:733
+msgid "Sidebar Link color"
+msgstr ""
+
+#: inc/theme-options.php:748
+msgid "Sidebar link hover color"
+msgstr ""
+
+#. translators: %s: The search query.
+#: search.php:13
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:2
+msgctxt "placeholder"
+msgid "search..."
+msgstr ""
+
+#: single.php:72
+msgid "Related Posts"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Vulture"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://evincode.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The Vulture is a simple blog theme for wordpress. This is very good and esay "
+"for your personal blog."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "EvinCode"
+msgstr ""
